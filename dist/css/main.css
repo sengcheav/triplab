@@ -1,0 +1,92 @@
+@font-face {
+  font-family: threedventure;
+  src: url(../fonts/3Dventure.ttf);
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-family: threedventure;
+  font-size: 50px;
+  margin-top: 40px;
+}
+
+header a {
+  color: rgb(0, 0, 0);
+}
+
+header a:hover {
+  color: rgb(248, 0, 0);
+  text-decoration: none;
+}
+
+h2 a {
+  color: black;
+}
+
+.campfire_footer {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  padding: 0px;
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+.HeadLine {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 70px;
+  margin-bottom: 50px;
+}
+
+iframe {
+  border: none;
+}
+
+footer {
+  height: 287px;
+  text-align: center;
+}
+
+footer p {
+  padding-top: 135px;
+  margin-bottom: 0px;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+section a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+}
+
+.business {
+  background-color: #DBAC51;
+}
+
+.entertainment {
+  background-color: #7030A0;
+}
+
+.national {
+  background-color: #124A7F;
+}
+
+.sport {
+  background-color: #D85151;
+}
+
+.technology {
+  background-color: #4CAE4C;
+}
+
+.world {
+  background-color: #01B7F2;
+}
