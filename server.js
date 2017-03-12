@@ -27,7 +27,7 @@ app.get('/', function(req, res){
 });
 
 app.get('/trip', function(req, res){
-  res.sendFile(__dirname+'/trip.html');
+  res.sendFile(__dirname+'/trip.html'); //
     //res.sendfile('/trip.html');
 });
 
